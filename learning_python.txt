@@ -1,0 +1,3 @@
+In python you can write a loop function
+In python you can do statistical anaylsis
+In python you can do machine learning
